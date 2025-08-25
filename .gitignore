@@ -1,0 +1,12 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environments
+venv/
+*.env
+
+# Ignore large or unnecessary zip files
+*.zip
